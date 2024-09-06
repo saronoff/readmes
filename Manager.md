@@ -16,11 +16,7 @@ I take a people-centric approach to leadership. I aim to create a space where th
 
 I defer to the team as often as possible. Sometimes I'll present some ideas on a given topic we'll be discussing to create a jumping off point. Generally, I want the team to have a part in nearly all decisions.
 
-There is very little room for saying "no" on the teams I lead. A given suggestion may not be feasible but my belief is, as engineers, we're paid to find solutions. Instead of "no", it's "that won't work but if we did this it would..." or other derivations thereof. There's a few exceptions to my rule on "no":
-
-* We will not work on the weekends to meet an arbitrary deadline.
-* We will not create an unsustainable cadence of delivery to make things happen faster.
-* We will not solve problems with process we could solve better by improving our communication.
+There is very little room for saying "no" on the teams I lead. A given suggestion may not be feasible but my belief is, as engineers, we're paid to find solutions. Instead of "no", it's "that won't work but if we did this it would..." or other derivations thereof.
 
 ### My Expectations
 You were hired because of your experience and skills. I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. That said, I *do not* expect you to do everything on your own. In fact, I expect you not do much on your own. Software Engineering is social; the best solutions are collaborative.
